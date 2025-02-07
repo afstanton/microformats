@@ -1,5 +1,5 @@
 name: microformats
-description: A starting point for Dart libraries or applications.
+description: A library for parsing and constructing HTML and JSON microformats.
 version: 0.0.1
 repository: https://github.com/afstanton/microformats
 
