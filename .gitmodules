@@ -1,0 +1,3 @@
+[submodule "external/tests"]
+	path = external/tests
+	url = git@github.com:microformats/tests.git
